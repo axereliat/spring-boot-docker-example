@@ -1,1 +1,5 @@
-# spring-boot-docker-example
+docker-compose up -d --build
+docker-compose up -d
+
+docker-compose down
+docker system prune
